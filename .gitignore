@@ -1,0 +1,12 @@
+#VSCode
+.vscode
+
+# Pyinstaller related
+build
+dist
+*.spec
+
+# Virtualenv
+env
+
+*.pyc

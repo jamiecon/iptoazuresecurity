@@ -1,0 +1,9 @@
+{
+    "security_groups": "",
+    "rule_name": "",
+    "azure_subscription_id": "",
+    "azure_resource_group": "",
+    "azure_client_id": "",
+    "azure_client_secret": "",
+    "azure_tenant": ""
+}
